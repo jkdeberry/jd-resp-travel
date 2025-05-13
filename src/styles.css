@@ -1,3 +1,10 @@
+header {
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+    url("../images/maldives-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 h1 {font-family: "Poppins", "Sans-Serif";
   font-style: normal;
   font-weight: 700;
