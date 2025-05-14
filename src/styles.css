@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", "Sans-Serif";
-  background: #272044;
+  background: #428a96;
 }
 
 .container {
@@ -48,7 +48,7 @@ header a {
   text-transform: uppercase;
   background: white;
   text-decoration: none;
-  color: #272044;
+  color: #428a96;
   padding: 16px 32px;
   margin-top: 32px;
   display: inline-block;
